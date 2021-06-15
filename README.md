@@ -1,1 +1,3 @@
-# ts-express-starter
+# ts-starter
+
+TS, webpack, sass, eslint
